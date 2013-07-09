@@ -1,1 +1,2 @@
 -e ’line1nline2’
+-e line3
